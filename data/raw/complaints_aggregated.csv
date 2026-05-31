@@ -1,0 +1,301 @@
+complaint_id,complaint_date,complaint_type,complaint_text,sentiment_score,escalated
+CMPL0001,2024-12-17,quality_damage,"Poor quality material, not as shown in photos",5,False
+CMPL0002,2025-02-20,wrong_product,"Ordered size M, received size L",4,False
+CMPL0003,2025-03-23,size_fit,Size inconsistency across different products,6,False
+CMPL0004,2024-11-11,refund_delay,"Money stuck for 3 weeks, very disappointed",2,False
+CMPL0005,2024-10-04,wrong_product,Received used/worn product instead of new,3,False
+CMPL0006,2025-02-20,size_fit,Ordered usual size but doesn't fit at all,5,False
+CMPL0007,2025-02-24,wrong_product,Received used/worn product instead of new,3,False
+CMPL0008,2024-10-28,quality_damage,Product arrived torn and damaged,4,False
+CMPL0009,2024-10-29,size_fit,Size chart is completely wrong,6,False
+CMPL0010,2025-03-29,wrong_product,"Ordered size M, received size L",3,False
+CMPL0011,2024-11-19,wrong_product,"Wrong color delivered - ordered blue, got black",3,False
+CMPL0012,2024-11-19,quality_damage,Stitching came apart after one wear,3,False
+CMPL0013,2025-03-19,quality_damage,Stitching came apart after one wear,2,False
+CMPL0014,2024-11-04,size_fit,Ordered usual size but doesn't fit at all,3,False
+CMPL0015,2025-01-17,size_fit,Size chart is completely wrong,4,False
+CMPL0016,2025-03-29,size_fit,Ordered usual size but doesn't fit at all,3,False
+CMPL0017,2025-03-16,size_fit,Size chart is completely wrong,5,False
+CMPL0018,2024-10-28,wrong_product,"Ordered size M, received size L",4,False
+CMPL0019,2024-10-03,refund_delay,"Money stuck for 3 weeks, very disappointed",2,False
+CMPL0020,2025-02-16,quality_damage,"Poor quality material, not as shown in photos",5,False
+CMPL0021,2024-12-03,quality_damage,"Fabric is cheap quality, not worth the price",2,False
+CMPL0022,2024-11-21,refund_delay,"Return initiated 15 days ago, still no refund",2,False
+CMPL0023,2025-02-25,refund_delay,"Money stuck for 3 weeks, very disappointed",3,False
+CMPL0024,2024-10-19,wrong_product,"Ordered size M, received size L",2,True
+CMPL0025,2025-03-27,quality_damage,"Fabric is cheap quality, not worth the price",4,True
+CMPL0026,2024-10-05,wrong_product,"Wrong color delivered - ordered blue, got black",2,True
+CMPL0027,2024-11-17,size_fit,"Fit is terrible, runs very small",4,True
+CMPL0028,2025-02-05,refund_delay,"Return initiated 15 days ago, still no refund",2,True
+CMPL0029,2024-12-15,quality_damage,Product arrived torn and damaged,2,False
+CMPL0030,2024-12-31,size_fit,Size inconsistency across different products,6,False
+CMPL0031,2024-10-04,quality_damage,Stitching came apart after one wear,4,True
+CMPL0032,2025-03-28,quality_damage,Stitching came apart after one wear,2,False
+CMPL0033,2025-03-28,refund_delay,"Return initiated 15 days ago, still no refund",3,False
+CMPL0034,2025-03-18,size_fit,Size chart is completely wrong,4,False
+CMPL0035,2024-11-23,wrong_product,"Wrong color delivered - ordered blue, got black",4,False
+CMPL0036,2025-02-03,wrong_product,Completely different item in the package,3,False
+CMPL0037,2024-10-25,refund_delay,"Money stuck for 3 weeks, very disappointed",1,False
+CMPL0038,2024-11-24,refund_delay,"Money stuck for 3 weeks, very disappointed",2,False
+CMPL0039,2025-01-27,size_fit,Size chart is completely wrong,6,False
+CMPL0040,2024-11-29,quality_damage,Stitching came apart after one wear,2,True
+CMPL0041,2024-11-24,size_fit,Ordered usual size but doesn't fit at all,5,False
+CMPL0042,2024-12-26,wrong_product,Received used/worn product instead of new,4,False
+CMPL0043,2024-10-08,wrong_product,Completely different item in the package,4,False
+CMPL0044,2024-11-04,wrong_product,Completely different item in the package,4,False
+CMPL0045,2024-12-19,quality_damage,Product arrived torn and damaged,3,False
+CMPL0046,2025-01-11,refund_delay,"Money stuck for 3 weeks, very disappointed",2,False
+CMPL0047,2024-10-26,wrong_product,Completely different item in the package,3,False
+CMPL0048,2024-10-18,quality_damage,Product arrived torn and damaged,3,False
+CMPL0049,2024-12-06,size_fit,Size inconsistency across different products,5,True
+CMPL0050,2025-01-05,quality_damage,"Fabric is cheap quality, not worth the price",4,False
+CMPL0051,2025-02-10,quality_damage,"Poor quality material, not as shown in photos",5,True
+CMPL0052,2024-12-24,size_fit,Size chart is completely wrong,4,False
+CMPL0053,2025-02-17,quality_damage,"Fabric is cheap quality, not worth the price",3,True
+CMPL0054,2024-11-11,size_fit,Ordered usual size but doesn't fit at all,3,True
+CMPL0055,2025-01-26,wrong_product,"Ordered size M, received size L",2,True
+CMPL0056,2025-01-23,quality_damage,"Poor quality material, not as shown in photos",5,True
+CMPL0057,2024-10-24,size_fit,Ordered usual size but doesn't fit at all,3,True
+CMPL0058,2024-12-04,size_fit,"Fit is terrible, runs very small",3,False
+CMPL0059,2025-03-13,wrong_product,"Ordered size M, received size L",4,False
+CMPL0060,2025-02-08,refund_delay,Customer support not responding about refund status,1,True
+CMPL0061,2024-12-17,quality_damage,Product arrived torn and damaged,5,False
+CMPL0062,2024-10-11,refund_delay,"Refund promised in 7 days, been waiting for a month",1,False
+CMPL0063,2025-03-16,refund_delay,"Return initiated 15 days ago, still no refund",1,False
+CMPL0064,2025-03-31,wrong_product,Completely different item in the package,4,False
+CMPL0065,2025-03-31,refund_delay,"Money stuck for 3 weeks, very disappointed",3,False
+CMPL0066,2024-10-22,size_fit,Size inconsistency across different products,4,False
+CMPL0067,2025-01-17,wrong_product,"Ordered size M, received size L",3,False
+CMPL0068,2024-12-26,quality_damage,"Poor quality material, not as shown in photos",2,False
+CMPL0069,2025-02-16,wrong_product,"Ordered size M, received size L",3,False
+CMPL0070,2024-10-10,size_fit,Size chart is completely wrong,6,False
+CMPL0071,2024-11-05,refund_delay,Customer support not responding about refund status,2,True
+CMPL0072,2024-12-26,size_fit,Size inconsistency across different products,4,True
+CMPL0073,2025-01-13,refund_delay,Customer support not responding about refund status,2,False
+CMPL0074,2025-03-11,wrong_product,"Wrong color delivered - ordered blue, got black",4,True
+CMPL0075,2024-12-03,size_fit,"Fit is terrible, runs very small",3,False
+CMPL0076,2024-12-19,quality_damage,Stitching came apart after one wear,4,False
+CMPL0077,2024-11-14,wrong_product,Received used/worn product instead of new,2,True
+CMPL0078,2025-03-11,wrong_product,"Wrong color delivered - ordered blue, got black",2,False
+CMPL0079,2025-02-23,size_fit,"Fit is terrible, runs very small",4,False
+CMPL0080,2025-03-05,size_fit,"Fit is terrible, runs very small",5,False
+CMPL0081,2025-02-24,size_fit,Size inconsistency across different products,6,False
+CMPL0082,2025-01-12,quality_damage,Stitching came apart after one wear,5,False
+CMPL0083,2024-10-12,wrong_product,Received used/worn product instead of new,2,False
+CMPL0084,2025-03-22,size_fit,Size chart is completely wrong,4,False
+CMPL0085,2025-01-23,refund_delay,"Refund promised in 7 days, been waiting for a month",3,False
+CMPL0086,2024-10-29,quality_damage,"Poor quality material, not as shown in photos",5,False
+CMPL0087,2025-02-03,size_fit,"Fit is terrible, runs very small",3,True
+CMPL0088,2025-01-30,quality_damage,Stitching came apart after one wear,4,False
+CMPL0089,2025-01-30,quality_damage,Product arrived torn and damaged,5,False
+CMPL0090,2024-11-30,wrong_product,"Ordered size M, received size L",3,True
+CMPL0091,2024-12-28,quality_damage,Stitching came apart after one wear,5,False
+CMPL0092,2024-11-02,refund_delay,"Money stuck for 3 weeks, very disappointed",2,False
+CMPL0093,2024-11-27,refund_delay,"Refund promised in 7 days, been waiting for a month",1,False
+CMPL0094,2024-12-23,size_fit,Size inconsistency across different products,6,False
+CMPL0095,2025-03-08,size_fit,Size inconsistency across different products,4,False
+CMPL0096,2024-12-09,refund_delay,"Return initiated 15 days ago, still no refund",1,False
+CMPL0097,2025-01-14,quality_damage,"Poor quality material, not as shown in photos",4,False
+CMPL0098,2024-10-22,size_fit,Size chart is completely wrong,4,False
+CMPL0099,2025-01-09,quality_damage,Stitching came apart after one wear,5,True
+CMPL0100,2024-11-12,size_fit,Size inconsistency across different products,3,False
+CMPL0101,2024-12-10,refund_delay,"Refund promised in 7 days, been waiting for a month",1,False
+CMPL0102,2025-01-26,quality_damage,"Fabric is cheap quality, not worth the price",2,False
+CMPL0103,2024-11-25,size_fit,"Fit is terrible, runs very small",5,True
+CMPL0104,2025-02-17,refund_delay,"Refund promised in 7 days, been waiting for a month",2,False
+CMPL0105,2025-01-13,quality_damage,Stitching came apart after one wear,3,True
+CMPL0106,2024-11-28,refund_delay,Customer support not responding about refund status,2,True
+CMPL0107,2025-01-10,wrong_product,Completely different item in the package,4,False
+CMPL0108,2024-10-25,refund_delay,Customer support not responding about refund status,2,False
+CMPL0109,2024-10-17,size_fit,Size inconsistency across different products,4,False
+CMPL0110,2024-10-06,size_fit,Size inconsistency across different products,5,True
+CMPL0111,2024-10-20,size_fit,"Fit is terrible, runs very small",3,False
+CMPL0112,2024-11-18,size_fit,Size inconsistency across different products,3,False
+CMPL0113,2024-11-13,wrong_product,"Ordered size M, received size L",3,False
+CMPL0114,2024-10-31,wrong_product,"Ordered size M, received size L",3,False
+CMPL0115,2024-12-06,refund_delay,"Return initiated 15 days ago, still no refund",1,False
+CMPL0116,2025-01-25,quality_damage,"Poor quality material, not as shown in photos",5,True
+CMPL0117,2025-01-05,size_fit,Ordered usual size but doesn't fit at all,4,False
+CMPL0118,2025-03-21,quality_damage,"Poor quality material, not as shown in photos",3,False
+CMPL0119,2024-12-23,wrong_product,Completely different item in the package,2,False
+CMPL0120,2025-01-07,quality_damage,Stitching came apart after one wear,3,False
+CMPL0121,2025-02-18,wrong_product,"Wrong color delivered - ordered blue, got black",3,False
+CMPL0122,2024-11-13,quality_damage,Stitching came apart after one wear,5,True
+CMPL0123,2024-11-16,quality_damage,"Fabric is cheap quality, not worth the price",3,True
+CMPL0124,2024-12-21,quality_damage,"Poor quality material, not as shown in photos",5,True
+CMPL0125,2024-12-28,quality_damage,"Poor quality material, not as shown in photos",3,False
+CMPL0126,2024-10-27,refund_delay,"Money stuck for 3 weeks, very disappointed",1,False
+CMPL0127,2024-11-04,size_fit,Size chart is completely wrong,5,False
+CMPL0128,2025-02-07,wrong_product,Completely different item in the package,4,False
+CMPL0129,2025-03-29,quality_damage,Stitching came apart after one wear,2,False
+CMPL0130,2025-01-08,wrong_product,Received used/worn product instead of new,2,False
+CMPL0131,2024-11-19,size_fit,Ordered usual size but doesn't fit at all,3,True
+CMPL0132,2024-11-14,wrong_product,Completely different item in the package,3,False
+CMPL0133,2025-02-21,size_fit,Size inconsistency across different products,4,True
+CMPL0134,2024-12-04,quality_damage,Stitching came apart after one wear,4,False
+CMPL0135,2025-03-18,refund_delay,"Return initiated 15 days ago, still no refund",1,True
+CMPL0136,2025-03-26,size_fit,"Fit is terrible, runs very small",6,False
+CMPL0137,2024-10-03,size_fit,Size chart is completely wrong,5,False
+CMPL0138,2025-03-07,wrong_product,"Ordered size M, received size L",2,False
+CMPL0139,2024-11-09,refund_delay,Customer support not responding about refund status,3,False
+CMPL0140,2024-11-09,quality_damage,"Fabric is cheap quality, not worth the price",2,False
+CMPL0141,2025-01-04,quality_damage,Stitching came apart after one wear,3,False
+CMPL0142,2024-11-10,quality_damage,Stitching came apart after one wear,4,False
+CMPL0143,2025-02-24,quality_damage,"Fabric is cheap quality, not worth the price",5,True
+CMPL0144,2025-01-07,refund_delay,"Return initiated 15 days ago, still no refund",2,True
+CMPL0145,2025-01-11,quality_damage,Stitching came apart after one wear,3,True
+CMPL0146,2025-02-27,size_fit,Size chart is completely wrong,5,False
+CMPL0147,2024-11-14,refund_delay,"Money stuck for 3 weeks, very disappointed",1,False
+CMPL0148,2024-10-19,size_fit,Size chart is completely wrong,6,False
+CMPL0149,2025-02-24,size_fit,"Fit is terrible, runs very small",6,True
+CMPL0150,2025-01-30,quality_damage,Product arrived torn and damaged,2,False
+CMPL0151,2024-10-09,refund_delay,"Money stuck for 3 weeks, very disappointed",3,True
+CMPL0152,2024-10-19,quality_damage,"Poor quality material, not as shown in photos",5,True
+CMPL0153,2025-03-17,size_fit,Ordered usual size but doesn't fit at all,4,False
+CMPL0154,2024-11-03,size_fit,Size chart is completely wrong,3,False
+CMPL0155,2025-02-23,refund_delay,Customer support not responding about refund status,3,True
+CMPL0156,2025-01-23,refund_delay,"Refund promised in 7 days, been waiting for a month",2,False
+CMPL0157,2025-02-22,size_fit,"Fit is terrible, runs very small",3,False
+CMPL0158,2024-12-29,quality_damage,"Poor quality material, not as shown in photos",2,False
+CMPL0159,2024-11-17,refund_delay,"Refund promised in 7 days, been waiting for a month",1,False
+CMPL0160,2024-10-24,refund_delay,"Return initiated 15 days ago, still no refund",2,True
+CMPL0161,2025-01-01,wrong_product,"Wrong color delivered - ordered blue, got black",4,False
+CMPL0162,2025-01-06,quality_damage,Product arrived torn and damaged,2,False
+CMPL0163,2024-11-12,quality_damage,Stitching came apart after one wear,5,False
+CMPL0164,2024-12-05,refund_delay,Customer support not responding about refund status,2,False
+CMPL0165,2024-11-25,size_fit,"Fit is terrible, runs very small",4,True
+CMPL0166,2024-12-21,quality_damage,Stitching came apart after one wear,4,False
+CMPL0167,2025-01-20,size_fit,Ordered usual size but doesn't fit at all,4,False
+CMPL0168,2025-01-08,size_fit,Ordered usual size but doesn't fit at all,4,False
+CMPL0169,2025-01-05,size_fit,"Fit is terrible, runs very small",4,True
+CMPL0170,2024-10-22,quality_damage,Product arrived torn and damaged,5,True
+CMPL0171,2024-10-03,quality_damage,Stitching came apart after one wear,3,False
+CMPL0172,2025-02-03,refund_delay,"Return initiated 15 days ago, still no refund",1,False
+CMPL0173,2025-02-07,quality_damage,"Fabric is cheap quality, not worth the price",5,True
+CMPL0174,2025-03-25,refund_delay,"Return initiated 15 days ago, still no refund",3,True
+CMPL0175,2024-11-21,quality_damage,"Poor quality material, not as shown in photos",4,False
+CMPL0176,2024-11-23,quality_damage,"Fabric is cheap quality, not worth the price",2,False
+CMPL0177,2025-02-04,quality_damage,"Fabric is cheap quality, not worth the price",4,True
+CMPL0178,2025-02-18,refund_delay,"Refund promised in 7 days, been waiting for a month",3,True
+CMPL0179,2024-11-22,wrong_product,Completely different item in the package,3,False
+CMPL0180,2024-10-15,wrong_product,"Ordered size M, received size L",3,True
+CMPL0181,2024-11-12,refund_delay,"Return initiated 15 days ago, still no refund",2,True
+CMPL0182,2024-10-15,wrong_product,Completely different item in the package,3,False
+CMPL0183,2025-03-19,size_fit,Size chart is completely wrong,5,False
+CMPL0184,2025-03-11,wrong_product,Completely different item in the package,4,False
+CMPL0185,2025-02-25,size_fit,Size chart is completely wrong,6,False
+CMPL0186,2025-01-04,size_fit,Size chart is completely wrong,3,False
+CMPL0187,2024-12-22,size_fit,Size inconsistency across different products,6,False
+CMPL0188,2025-01-30,quality_damage,"Fabric is cheap quality, not worth the price",4,True
+CMPL0189,2025-01-10,refund_delay,"Return initiated 15 days ago, still no refund",3,False
+CMPL0190,2025-03-05,quality_damage,Product arrived torn and damaged,5,False
+CMPL0191,2024-12-22,refund_delay,"Return initiated 15 days ago, still no refund",3,True
+CMPL0192,2024-12-09,size_fit,"Fit is terrible, runs very small",4,True
+CMPL0193,2025-02-04,size_fit,Size inconsistency across different products,4,False
+CMPL0194,2025-01-22,size_fit,Size chart is completely wrong,3,False
+CMPL0195,2024-12-03,wrong_product,"Wrong color delivered - ordered blue, got black",3,False
+CMPL0196,2025-01-13,quality_damage,"Fabric is cheap quality, not worth the price",3,False
+CMPL0197,2024-12-28,size_fit,"Fit is terrible, runs very small",3,False
+CMPL0198,2024-11-23,refund_delay,"Return initiated 15 days ago, still no refund",1,True
+CMPL0199,2024-11-21,size_fit,Size inconsistency across different products,5,False
+CMPL0200,2024-12-16,refund_delay,Customer support not responding about refund status,3,False
+CMPL0201,2025-03-22,size_fit,Ordered usual size but doesn't fit at all,6,True
+CMPL0202,2025-01-02,refund_delay,"Money stuck for 3 weeks, very disappointed",3,False
+CMPL0203,2025-02-15,wrong_product,"Wrong color delivered - ordered blue, got black",2,True
+CMPL0204,2024-12-28,size_fit,Ordered usual size but doesn't fit at all,6,True
+CMPL0205,2025-02-17,wrong_product,"Ordered size M, received size L",3,False
+CMPL0206,2025-02-24,wrong_product,Received used/worn product instead of new,4,False
+CMPL0207,2024-12-29,size_fit,"Fit is terrible, runs very small",4,False
+CMPL0208,2024-10-03,refund_delay,"Refund promised in 7 days, been waiting for a month",3,False
+CMPL0209,2024-11-09,refund_delay,Customer support not responding about refund status,1,False
+CMPL0210,2024-12-29,size_fit,Size inconsistency across different products,3,True
+CMPL0211,2024-10-13,size_fit,Size chart is completely wrong,6,True
+CMPL0212,2025-01-17,size_fit,"Fit is terrible, runs very small",6,False
+CMPL0213,2024-10-19,wrong_product,"Ordered size M, received size L",3,True
+CMPL0214,2025-01-01,refund_delay,Customer support not responding about refund status,1,False
+CMPL0215,2025-01-15,size_fit,"Fit is terrible, runs very small",5,False
+CMPL0216,2024-10-19,refund_delay,"Return initiated 15 days ago, still no refund",3,False
+CMPL0217,2024-11-12,refund_delay,"Refund promised in 7 days, been waiting for a month",3,False
+CMPL0218,2025-01-28,wrong_product,"Wrong color delivered - ordered blue, got black",3,False
+CMPL0219,2025-02-21,quality_damage,"Fabric is cheap quality, not worth the price",2,False
+CMPL0220,2024-10-28,wrong_product,"Wrong color delivered - ordered blue, got black",3,False
+CMPL0221,2024-10-11,size_fit,Ordered usual size but doesn't fit at all,3,False
+CMPL0222,2024-12-11,refund_delay,"Money stuck for 3 weeks, very disappointed",1,False
+CMPL0223,2024-11-06,quality_damage,"Fabric is cheap quality, not worth the price",2,False
+CMPL0224,2025-03-07,refund_delay,"Refund promised in 7 days, been waiting for a month",1,False
+CMPL0225,2025-03-03,quality_damage,Stitching came apart after one wear,2,False
+CMPL0226,2025-02-07,size_fit,"Fit is terrible, runs very small",4,False
+CMPL0227,2024-10-15,refund_delay,Customer support not responding about refund status,1,False
+CMPL0228,2024-12-21,size_fit,Size inconsistency across different products,6,False
+CMPL0229,2025-03-14,size_fit,Size chart is completely wrong,5,False
+CMPL0230,2025-02-24,size_fit,"Fit is terrible, runs very small",5,True
+CMPL0231,2025-03-08,size_fit,Size inconsistency across different products,4,False
+CMPL0232,2024-12-29,quality_damage,Product arrived torn and damaged,2,False
+CMPL0233,2025-01-02,size_fit,Ordered usual size but doesn't fit at all,6,False
+CMPL0234,2024-10-31,quality_damage,Product arrived torn and damaged,3,True
+CMPL0235,2024-12-28,refund_delay,Customer support not responding about refund status,3,True
+CMPL0236,2024-12-08,size_fit,"Fit is terrible, runs very small",3,False
+CMPL0237,2024-10-10,size_fit,Ordered usual size but doesn't fit at all,5,False
+CMPL0238,2024-11-06,refund_delay,Customer support not responding about refund status,3,False
+CMPL0239,2025-02-21,wrong_product,"Ordered size M, received size L",4,True
+CMPL0240,2024-12-17,wrong_product,"Ordered size M, received size L",2,False
+CMPL0241,2025-01-07,size_fit,"Fit is terrible, runs very small",5,False
+CMPL0242,2024-12-21,size_fit,"Fit is terrible, runs very small",4,False
+CMPL0243,2025-03-05,wrong_product,"Wrong color delivered - ordered blue, got black",3,False
+CMPL0244,2024-10-20,refund_delay,Customer support not responding about refund status,1,False
+CMPL0245,2025-01-09,refund_delay,"Money stuck for 3 weeks, very disappointed",2,False
+CMPL0246,2024-10-10,size_fit,Size inconsistency across different products,4,False
+CMPL0247,2024-10-07,size_fit,Size chart is completely wrong,4,True
+CMPL0248,2025-01-29,refund_delay,"Money stuck for 3 weeks, very disappointed",3,False
+CMPL0249,2024-10-30,wrong_product,"Ordered size M, received size L",3,False
+CMPL0250,2025-01-21,wrong_product,"Ordered size M, received size L",4,False
+CMPL0251,2024-10-23,quality_damage,"Poor quality material, not as shown in photos",3,True
+CMPL0252,2025-03-26,wrong_product,"Wrong color delivered - ordered blue, got black",4,False
+CMPL0253,2024-10-06,refund_delay,"Money stuck for 3 weeks, very disappointed",1,True
+CMPL0254,2025-01-10,refund_delay,"Refund promised in 7 days, been waiting for a month",3,True
+CMPL0255,2024-12-23,wrong_product,Received used/worn product instead of new,3,True
+CMPL0256,2024-10-31,quality_damage,"Fabric is cheap quality, not worth the price",4,True
+CMPL0257,2024-10-06,quality_damage,"Fabric is cheap quality, not worth the price",3,True
+CMPL0258,2025-04-01,size_fit,Size chart is completely wrong,3,True
+CMPL0259,2024-12-03,refund_delay,"Money stuck for 3 weeks, very disappointed",1,False
+CMPL0260,2025-02-12,wrong_product,"Ordered size M, received size L",2,False
+CMPL0261,2025-03-02,refund_delay,"Return initiated 15 days ago, still no refund",1,False
+CMPL0262,2024-10-05,refund_delay,"Money stuck for 3 weeks, very disappointed",1,False
+CMPL0263,2024-10-17,quality_damage,Stitching came apart after one wear,3,False
+CMPL0264,2025-03-24,refund_delay,"Money stuck for 3 weeks, very disappointed",1,True
+CMPL0265,2025-02-02,size_fit,Ordered usual size but doesn't fit at all,3,False
+CMPL0266,2024-11-17,refund_delay,"Return initiated 15 days ago, still no refund",1,False
+CMPL0267,2025-03-04,size_fit,"Fit is terrible, runs very small",3,False
+CMPL0268,2025-02-26,refund_delay,"Return initiated 15 days ago, still no refund",3,False
+CMPL0269,2025-02-16,refund_delay,"Return initiated 15 days ago, still no refund",1,False
+CMPL0270,2024-10-25,quality_damage,"Poor quality material, not as shown in photos",5,False
+CMPL0271,2024-12-01,wrong_product,"Ordered size M, received size L",3,True
+CMPL0272,2025-02-10,refund_delay,"Return initiated 15 days ago, still no refund",1,True
+CMPL0273,2025-01-07,wrong_product,Completely different item in the package,4,False
+CMPL0274,2025-01-04,quality_damage,Stitching came apart after one wear,5,False
+CMPL0275,2024-11-08,quality_damage,Product arrived torn and damaged,2,True
+CMPL0276,2024-12-13,quality_damage,Product arrived torn and damaged,4,False
+CMPL0277,2025-01-28,size_fit,Ordered usual size but doesn't fit at all,3,True
+CMPL0278,2025-01-07,refund_delay,"Money stuck for 3 weeks, very disappointed",1,False
+CMPL0279,2024-12-26,size_fit,"Fit is terrible, runs very small",4,False
+CMPL0280,2025-03-17,refund_delay,"Refund promised in 7 days, been waiting for a month",3,False
+CMPL0281,2025-01-17,size_fit,Ordered usual size but doesn't fit at all,4,True
+CMPL0282,2025-01-08,refund_delay,"Money stuck for 3 weeks, very disappointed",1,False
+CMPL0283,2025-01-20,wrong_product,"Ordered size M, received size L",2,False
+CMPL0284,2025-03-02,quality_damage,"Poor quality material, not as shown in photos",3,False
+CMPL0285,2025-03-04,size_fit,Size inconsistency across different products,4,True
+CMPL0286,2024-10-24,size_fit,Ordered usual size but doesn't fit at all,5,True
+CMPL0287,2025-01-17,quality_damage,"Fabric is cheap quality, not worth the price",3,False
+CMPL0288,2024-12-10,refund_delay,Customer support not responding about refund status,2,False
+CMPL0289,2024-11-18,quality_damage,"Poor quality material, not as shown in photos",3,True
+CMPL0290,2024-11-01,wrong_product,Completely different item in the package,4,False
+CMPL0291,2025-01-16,wrong_product,Completely different item in the package,2,False
+CMPL0292,2024-10-15,wrong_product,Received used/worn product instead of new,3,False
+CMPL0293,2024-10-23,wrong_product,Received used/worn product instead of new,4,False
+CMPL0294,2025-01-14,size_fit,Size chart is completely wrong,5,False
+CMPL0295,2024-10-19,size_fit,"Fit is terrible, runs very small",4,False
+CMPL0296,2024-11-21,wrong_product,Completely different item in the package,4,False
+CMPL0297,2024-11-08,wrong_product,Completely different item in the package,3,True
+CMPL0298,2024-11-12,size_fit,Size chart is completely wrong,5,True
+CMPL0299,2024-10-10,refund_delay,"Return initiated 15 days ago, still no refund",3,False
+CMPL0300,2024-10-11,size_fit,Size inconsistency across different products,6,False
