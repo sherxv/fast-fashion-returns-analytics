@@ -31,6 +31,16 @@ operational and profitability problem for fast fashion platforms.
 - **Refund delays** score most negatively in customer sentiment (1.9/10)
 - Metro cities return ~8% more than Tier 3 — likely due to bracketing behavior
 
+## Visualizations
+
+**Return Rate by Category**
+![Return Rate by Category](assets/return_rate_by_category.png)
+
+**Refund Delay Distribution**
+![Refund Delay Distribution](assets/refund_delay_distribution.png)
+
+**Customer Complaint Sentiment**
+![Sentiment Distribution](assets/sentiment_distribution.png)
 ---
 
 ## Data
