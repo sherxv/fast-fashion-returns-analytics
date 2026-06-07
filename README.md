@@ -44,20 +44,20 @@ Synthetically generated dataset of **50,000 orders** modelled on real Indian e-c
   categorized into: wrong product, refund delay, damaged item, size mismatch
 
 ---
-
 ## Project Structure
 
+```
 ├── data/
-│   ├── raw/               # Synthetic orders + complaints dataset
-│   └── processed/         # Cleaned datasets (output of analyze.py)
+│   ├── raw/            # Synthetic orders + complaints dataset
+│   └── processed/      # Cleaned datasets (output of analyze.py)
 ├── notebooks/
-│   └── analysis.ipynb     # Exploratory analysis with visualizations
+│   └── analysis.ipynb  # Exploratory analysis with visualizations
 ├── scripts/
-│   ├── generate_data.py   # Generates the synthetic dataset
-│   └── analyze.py         # Data cleaning + full analysis pipeline
-├── visuals/               # Output charts (PNG)
+│   ├── generate_data.py  # Generates the synthetic dataset
+│   └── analyze.py        # Data cleaning + full analysis pipeline
+├── visuals/            # Output charts (PNG)
 └── requirements.txt
-
+```
 ---
 
 ## How to Run
